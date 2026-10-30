@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+
+body{
+    background-color: burlywood;
+}
+header{
+    text-align: center;
+    padding: 15px;
+    padding-bottom: 30px;
+}
+.cards{
+    align-items: center;
+    text-align: center;
+
+}
+.card1{
+    
+    border: 2px solid black;
+    width:24.5% ;
+    display:inline-block;
+    background-color:antiquewhite;
+    padding-bottom: 3px;
+}
+button{
+color: white;
+background-color: brown;
+border: 12px solid brown;
+border-radius: 15px;
+
+}
+
+
+/* display in child */
